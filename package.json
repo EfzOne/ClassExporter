@@ -1,0 +1,22 @@
+{
+  "name": "classexporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^1.0.2",
+    "debug": "^2.2.0",
+    "lodash": "^4.7.0",
+    "ms": "^0.7.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
